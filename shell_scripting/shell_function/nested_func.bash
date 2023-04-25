@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#A nested fuction is a fuction that calls another function inside of it
+#Nested fuction is a fuction that calls another function inside of it
 
 a=1
 b=2
