@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#Used to execute some commands until some conditions are true
+#Used to carry out loop on some items UNTIL the specified conditions becomes true 
 
 a=0
 
