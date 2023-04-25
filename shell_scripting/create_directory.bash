@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#THis script help to create a directory in /tmp
+#This script help to create a directory in /tmp
 
 cd /tmp
 mkdir testOO 
