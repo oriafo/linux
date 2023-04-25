@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#This script takes input from users and tell them how old they would be in 50 years time.
+#This script accept input from users and tell them how old they would be in 50 years time.
 
 echo -n "Please enter your name:"
 read name
