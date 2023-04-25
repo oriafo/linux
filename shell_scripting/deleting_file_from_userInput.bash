@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#This script help You to delete specified file(s) from the terminal.
+#This script delete specified file(s) from the terminal.
 
 touch file1 file2
 echo -n "please enter file name to be deleted:"
