@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#Used to execute some command while some conditions are true
+#Used to perform loop on some item provided some conditions are true
 
 a=0
 while [ $a -lt 10 ]
