@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#This shows how to return a value in shell function
+#This shows how to return a value in shell function so as other scope to have available this value. 
 
 a=1
 b=2
