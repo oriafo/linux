@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#This script helps to scan and monitor small home brand networks using the Ping command where sophisticated monitoring software can become an overhead. it checks for ip that are up in a particular subnet 
+#This script helps to scan and monitor small home brand networks using the Ping command where sophisticated monitoring software can become an overhead. it checks for ip that are up in a particular subnet and displays them 
 
 is_alive(){ 
 	ping -c 1 $1 > /dev/null
