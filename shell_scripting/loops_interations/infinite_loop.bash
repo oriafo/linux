@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#Demonstrate infinite loop
+#Demonstrate infinite loop that cant stop executing until it is forced to stop using ctrl c 
 
 a=0
 
