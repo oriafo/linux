@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #Delete fileO3 in the /tmp/testOO created earlier
-#Also, i will be displaying formatted date and time.
+#Also, will be displaying formatted date and time.
  
 cd /tmp/testOO
 rm fileO3
