@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#Demonstarte the execution of loop inside of another loop
+#Demonstarte the execution of loop inside of another loop for extended fuctionality. 
 
 a=0
 while [ $a -lt 10 ]
