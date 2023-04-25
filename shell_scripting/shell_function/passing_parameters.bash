@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#THe script demonstrate passing parameters to your function
+#This script demonstrate passing parameters to your function
 
 passing_parameter(){
 	echo "$0/ $1/ $2/ $3/ $@" 
