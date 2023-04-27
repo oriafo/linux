@@ -74,3 +74,8 @@ sending_mail 192.168.43.231 google.com 192.167.43.232 192.168.0.186
 Note;
 You can check /var/log/mail.log for a log of your mail processes6
 
+links to check out that helped were;
+https://phoenixnap.com/kb/linux-mail-command
+https://linuxhint.com/bash_script_send_email/#:~:text=Run%20%60mail'%20command%20by%20',D%20to%20send%20the%20email.
+https://tecadmin.net/send-email-smtp-server-linux-command-line-ssmtp/
+https://unix.stackexchange.com/questions/595410/troubleshooting-ssmtp-authorization-failed
