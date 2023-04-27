@@ -1,0 +1,76 @@
+SENDING MAIL FROM THE COMMAND LINE AND ALSO AUTOMATING IT IN A SCRIPT
+
+There are differnt command in sending mail in linux, some which are;
+ssmtp
+mail
+mailx
+mutt e.t.c.
+
+But there is a little configuration that needs to be done on 2 particular files, which are /etc/ssmtp/ssmtp.conf and /etc/ssmtp/revaliases.
+
+on the /etc/ssmtp/ssmtp.conf file, you put this configuration data;
+
+#
+# Config file for sSMTP sendmail
+#
+# The person who gets all mail for userids < 1000
+# Make this empty to disable rewriting.
+root=oriafodevops@gmail.com
+
+# The place where the mail goes. The actual machine name is required no
+# MX records are consulted. Commonly mailhosts are named mail.domain.com
+mailhub=smtp.gmail.com:465
+
+# Where will the mail seem to come from?
+rewriteDomain=gmail.com
+
+# The full hostname
+hostname=dikodin-HP-EliteBook-840-G2
+
+# Are users allowed to set their own From: address?
+# YES - Allow the user to specify their own From: address
+# NO - Use the system generated From: address
+FromLineOverride=YEs
+
+UseTLS=YES
+#UseSTARTTLS=YES
+AuthUser=oriafodevops@gmail.com
+AuthPass=rojmmmczmbobnxox
+AuthMethod=LOGIN
+#TLS_CA_File=/etc/ssl/certs/ca-certificates.crt
+
+Then on the /etc/ssmtp/revaliases file, you put this configuration data;
+# sSMTP aliases
+#
+# Format:       local_account:outgoing_address:mailhub
+#
+# Example: root:your_login@your.domain:mailhub.your.domain[:port]
+# where [:port] is an optional port number that defaults to 25.
+
+root:oriafodevops@gmail.com:smtp.gmail.com:465
+
+while our script look this way;
+#!/bin/bash
+
+#This script check for subnet that is up and send email to a specified mail showing the subnet that are down.
+
+sending_mail(){
+for i in $@
+do
+echo $i
+        ping -c 1 $i &> /dev/null
+        if [ $? -ne 0 ]
+        then
+                        echo "testing message" | mail -s "Status report for $i hostname" abrahamibharunujele@gmail.com <<< "Could not reach $i hostname, because hostname is down" -A /home/dikodin/Documents/Devops/shell_scripting/use_cases/mail_documentation.txt
+        fi
+done
+}
+
+#This message body is being sent into an unnamed file and sent along as an attachment intead of it appearing in the message body. along side the attached document. i will fix that later.
+
+sending_mail 192.168.43.231 google.com 192.167.43.232 192.168.0.186
+
+
+Note;
+You can check /var/log/mail.log for a log of your mail processes6
+
