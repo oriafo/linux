@@ -5,10 +5,20 @@ pipeline {
             args '-v /root/.m2:/root/.m2'
         }
     }
+
+    environment {
+        credential_id = credentials('a0afeebd-d3a9-4130-88a6-3ba2e57c749c')
+    }
+
     stages {
         stage('Checkout code') {
             steps {
-                Checkout
+                checkout scmGit(
+                    branches: [[name: '*/master']], 
+                    extensions: [], 
+                    userRemoteConfigs: [[
+                        credentialsId: '$credential_id', 
+                        url: 'https://github.com/oriafo/Devops.git']])
                 sh 'pwd'
                 sh 'cd simple-java-maven-app'
                 sh 'pwd'
