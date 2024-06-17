@@ -8,8 +8,8 @@ pipeline {
     stages {
         stage('Checkout code') {
             steps {
-                checkout scm
-                sh 'cd simple-java-maven-app/simple-java-maven-app'
+                Checkout
+                sh 'cd simple-java-maven-app'
                 sh 'pwd'
             }
         }        
