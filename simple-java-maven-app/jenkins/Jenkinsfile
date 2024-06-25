@@ -18,7 +18,7 @@ pipeline {
                     branches: [[name: '*/master']], 
                     extensions: [], 
                     userRemoteConfigs: [[
-                        credentialsId: '$credential_id', 
+                        credentialsId: $credential_id, 
                         url: 'https://github.com/oriafo/Devops.git']])
                 sh 'pwd'
             }
