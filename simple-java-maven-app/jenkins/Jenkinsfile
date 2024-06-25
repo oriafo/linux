@@ -13,7 +13,7 @@ pipeline {
     stages {
         stage('Checkout code') {
             steps {
-                sh 'cd simple-java-maven-app'
+                //sh 'cd simple-java-maven-app'
                 checkout scmGit(
                     branches: [[name: '*/master']], 
                     extensions: [], 
