@@ -6,6 +6,10 @@ pipeline {
        // }
     }
 
+    tools {
+        maven 'maven'
+    }
+
     environment {
         credential_id = credentials('a0afeebd-d3a9-4130-88a6-3ba2e57c749c')
     }
