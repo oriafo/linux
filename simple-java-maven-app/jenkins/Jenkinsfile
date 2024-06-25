@@ -11,9 +11,9 @@ pipeline {
     }
 
     stages {
-        stage('Checkout code') {
+        '''stage('Checkout code') {
             steps {
-                //sh 'cd simple-java-maven-app'
+                sh 'cd simple-java-maven-app'
                 checkout scmGit(
                     branches: [[name: '*/master']], 
                     extensions: [], 
@@ -22,7 +22,7 @@ pipeline {
                         url: 'https://github.com/oriafo/Devops.git']])
                 sh 'pwd'
             }
-        }        
+        '''}        
         stage('Build') {
             steps {
                 sh 'cd simple-java-maven-app'
