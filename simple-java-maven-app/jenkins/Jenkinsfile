@@ -30,6 +30,7 @@ pipeline {
         stage('Build') {
             steps {
                 sh 'cd simple-java-maven-app/'
+                sh 'pwd'
                 sh 'mvn -B -DskipTests clean package'
             }
         }
