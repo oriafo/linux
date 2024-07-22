@@ -60,3 +60,6 @@ print('Outside function')
 ```
 
 `#ffffff` 
+**Note**
+1.A supported color model cannot have any leading or trailing spaces within the backticks.
+1.The visualization of the color is only supported in issues, pull requests, and discussions.
