@@ -5,22 +5,19 @@
 **Heading section**
 
 ~~##########################################~~
-
 # This is the first Menu
 ## This is the second Menu
 ### This is the third Menu
 **NOTE**
 
-*Github will create a table of content at the side for you when in your file you have more than one heading.
+Github will create a table of content at the side for you when in your file you have more than one heading.
 <p style="text-align: center;">Now let's start</p>
 
 ~~##########################################~~
 
 <p style="text-align:center;">Quotted Text</p>
 
-~~##########################################~~
-
-
+~~##########################################~~  
 **Hello** 
 
 __Helllo__
@@ -43,8 +40,7 @@ _Hello_
 
 <p style="text-align:center;">Quotted code</p>
 
-~~##########################################~~
-
+~~##########################################~~  
 Use `git status` to get the status of your ___local___ git environment.
 
 
@@ -53,7 +49,6 @@ Use `git status` to get the status of your ___local___ git environment.
 <p style="text-align:center;">Adding Image</p>
 
 ~~##########################################~~
-
 <img src="https://www.programiz.com/sites/tutorial2program/files/working-of-function-python.png">
 
 ~~##########################################~~
@@ -61,7 +56,6 @@ Use `git status` to get the status of your ___local___ git environment.
 <p style="text-align:center;">Adding Python fuction</p>
 
 ~~##########################################~~
-
 ```python
 def greet():
     print('Hello World!')
@@ -76,11 +70,18 @@ print('Outside function')
 
 <p style="text-align:center;">Adding colors</p>
 
-~~##########################################~~
-
+~~##########################################~~  
 `#ffffff` 
 
-**Note**
-
+**Note:**    
 1. A supported color model cannot have any leading or trailing spaces within the backticks.
 1. The visualization of the color is only supported in issues, pull requests, and discussions.
+
+~~##########################################~~
+<p style="text-align:center;">Adding colors</p>     
+
+~~##########################################~~  
+Aws Bootcamp [Cloud Course](https://www.youtube.com/watch?v=zA8guDqfv40&t=1s)
+
+**Note:**  
+GitHub automatically creates links when valid URLs are written in a comment. For more information
