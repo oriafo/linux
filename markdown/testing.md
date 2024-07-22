@@ -85,3 +85,10 @@ Aws Bootcamp [Cloud Course](https://www.youtube.com/watch?v=zA8guDqfv40&t=1s)
 
 **Note:**  
 GitHub automatically creates links when valid URLs are written in a comment. For more information
+
+~~##########################################~~
+
+<p style="text-align:center;">Adding Image using another format</p>
+
+~~##########################################~~
+![This is the diagramatic representation of the above code](https://www.programiz.com/sites/tutorial2program/files/working-of-function-python.png)
