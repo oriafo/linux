@@ -41,13 +41,26 @@ _Hello_
 
 ~~##########################################~~
 
-**Haven done the above... i will be going into quotted code**
+<p style="text-align:center;">Quotted code</p>
 
 ~~##########################################~~
 
 Use `git status` to get the status of your ___local___ git environment.
 
+
+~~##########################################~~
+
+<p style="text-align:center;">Adding Image</p>
+
+~~##########################################~~
+
 <img src="https://www.programiz.com/sites/tutorial2program/files/working-of-function-python.png">
+
+~~##########################################~~
+
+<p style="text-align:center;">Adding Python fuction</p>
+
+~~##########################################~~
 
 ```python
 def greet():
@@ -58,6 +71,12 @@ greet()
 
 print('Outside function')
 ```
+
+~~##########################################~~
+
+<p style="text-align:center;">Adding colors</p>
+
+~~##########################################~~
 
 `#ffffff` 
 
