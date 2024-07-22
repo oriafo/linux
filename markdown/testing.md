@@ -1,7 +1,9 @@
 <p style="text-align: center;">Trying out markdown</p>      
 
 ~~##########################################~~
+
 **Heading section**
+
 ~~##########################################~~
 
 # This is the first Menu
@@ -13,7 +15,9 @@
 <p style="text-align: center;">Now let's start</p>
 
 ~~##########################################~~
+
 <p style="text-align:center;">Quotted Text</p>
+
 ~~##########################################~~
 
 
@@ -36,8 +40,11 @@ _Hello_
 **Because it very <sup>useful</sub>**
 
 ~~##########################################~~
+
 **Haven done the above... i will be going into quotted code**
+
 ~~##########################################~~
+
 Use `git status` to get the status of your ___local___ git environment.
 
 <img src="https://www.programiz.com/sites/tutorial2program/files/working-of-function-python.png">
