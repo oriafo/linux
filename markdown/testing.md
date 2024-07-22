@@ -78,7 +78,7 @@ print('Outside function')
 1. The visualization of the color is only supported in issues, pull requests, and discussions.
 
 ~~##########################################~~
-<p style="text-align:center;">Adding colors</p>     
+<p style="text-align:center;">Adding Links</p>     
 
 ~~##########################################~~  
 Aws Bootcamp [Cloud Course](https://www.youtube.com/watch?v=zA8guDqfv40&t=1s)
