@@ -1,0 +1,5 @@
+From: oriafodevops@gmail.com
+Subject: Using SSMTP in sending mail from my linux system
+
+ 
+Working now. But trying to use the cc feature
