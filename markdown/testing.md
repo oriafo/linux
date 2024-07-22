@@ -49,7 +49,7 @@ Use `git status` to get the status of your ___local___ git environment.
 
 <img src="https://www.programiz.com/sites/tutorial2program/files/working-of-function-python.png">
 
-```
+```python
 def greet():
     print('Hello World!')
 
