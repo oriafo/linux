@@ -1,8 +1,8 @@
-<p align="center;">Trying out markdown</p>      
+<p align="center">Trying out markdown</p>      
 
 ~~#################################################################################################################~~
 
-<p align="center;">**Heading section**</p>      
+<p align="center">**Heading section**</p>      
 
 
 ~~#################################################################################################################~~
@@ -16,7 +16,7 @@ Github will create a table of content at the side for you when in your file you 
 
 ~~#################################################################################################################~~
 
-<p align="center;">Quotted Text</p>
+<p align="center">Quotted Text</p>
 
 ~~#################################################################################################################~~  
 **Hello** 
@@ -90,7 +90,7 @@ GitHub automatically creates links when valid URLs are written in a comment. For
 
 ~~#################################################################################################################~~
 
-<p align="enter">Adding Image using another format</p>
+<p align="center">Adding Image using another format</p>
 
 ~~#################################################################################################################~~
 ![This is the diagramatic representation of the above code](https://www.programiz.com/sites/tutorial2program/files/working-of-function-python.png)
