@@ -1,8 +1,8 @@
-<p align="center">Trying out markdown</p>      
+**<p align="center">Trying out markdown</p>**      
 
 ~~#################################################################################################################~~
 
-<p align="center">**Heading section**</p>      
+**<p align="center">Heading section</p>** 
 
 
 ~~#################################################################################################################~~
@@ -12,11 +12,11 @@
 **NOTE**
 
 Github will create a table of content at the side for you when in your file you have more than one heading.
-<p style="text-align: center;">Now let's start</p>
+**<p style="text-align: center;">Now let's start</p>**  
 
 ~~#################################################################################################################~~
 
-<p align="center">Quotted Text</p>
+**<p align="center">Quotted Text</p>**
 
 ~~#################################################################################################################~~  
 **Hello** 
@@ -39,22 +39,23 @@ _Hello_
 
 ~~#################################################################################################################~~
 
-<p align="center">Quotted code</p>
+**<p align="center">Quotted code</p>**
 
-~~#################################################################################################################~~ 
+~~#################################################################################################################~~
+
 Use `git status` to get the status of your ___local___ git environment.
 
 
 ~~#################################################################################################################~~
 
-<p align="center">Adding Image</p>
+**<p align="center">Adding Image</p>**
 
 ~~#################################################################################################################~~
 <img src="https://www.programiz.com/sites/tutorial2program/files/working-of-function-python.png">
 
 ~~#################################################################################################################~~
 
-<p align="center">Adding Python fuction</p>
+**<p align="center">Adding Python fuction</p>**
 
 ~~#################################################################################################################~~
 ```python
@@ -69,9 +70,10 @@ print('Outside function')
 
 ~~#################################################################################################################~~
 
-<p align="center">Adding colors</p>
+**<p align="center">Adding colors</p>**
 
 ~~#################################################################################################################~~
+
 `#ffffff` 
 
 **Note:**    
@@ -80,9 +82,10 @@ print('Outside function')
 
 ~~#################################################################################################################~~
 
-<p align="center">Adding Links</p>     
+**<p align="center">Adding Links</p>**     
 
 ~~#################################################################################################################~~ 
+
 Aws Bootcamp [Cloud Course](https://www.youtube.com/watch?v=zA8guDqfv40&t=1s)
 
 **Note:**  
@@ -90,14 +93,14 @@ GitHub automatically creates links when valid URLs are written in a comment. For
 
 ~~#################################################################################################################~~
 
-<p align="center">Adding Image using another format</p>
+**<p align="center">Adding Image using another format</p>**
 
 ~~#################################################################################################################~~
 ![This is the diagramatic representation of the above code](https://www.programiz.com/sites/tutorial2program/files/working-of-function-python.png)
 
 ~~#################################################################################################################~~
 
-<p align="center">Adding theme in pictures</p>
+**<p align="center">Adding theme in pictures</p>**
 
 ~~#################################################################################################################~~
 
@@ -109,7 +112,7 @@ GitHub automatically creates links when valid URLs are written in a comment. For
 
 ~~#################################################################################################################~~
 
-<p align="center">Adding unordered list</p>
+**<p align="center">Adding unordered list</p>**
 
 ~~#################################################################################################################~~
 - George Washington
@@ -118,7 +121,7 @@ GitHub automatically creates links when valid URLs are written in a comment. For
 
 ~~#################################################################################################################~~
 
-<p align="center">Adding orered list</p>
+**<p align="center">Adding orered list</p>**
 
 ~~#################################################################################################################~~
 
@@ -128,6 +131,6 @@ GitHub automatically creates links when valid URLs are written in a comment. For
 
 ~~#################################################################################################################~~
 
-<p align="center">Adding Nested Lists</p>
+**<p align="center">Adding Nested Lists</p>**
 
 ~~#################################################################################################################~~
