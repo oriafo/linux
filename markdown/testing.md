@@ -139,5 +139,7 @@ GitHub automatically creates links when valid URLs are written in a comment. For
 
 1. This is my first ordered item
     * This is my first sub-order item
+        1. This is my first sub-sub ordered item
+            * This is my first sub-sub unordered item
 2. This is my second ordered item
     * This is my second sub-order item
