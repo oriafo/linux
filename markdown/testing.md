@@ -115,10 +115,9 @@ GitHub automatically creates links when valid URLs are written in a comment. For
 + Thomas Jefferson
 
 ~~##########################################~~
-
 <p style="text-align:center;">Adding orered list</p>
-
 ~~##########################################~~
+
 1. George Washington
 1. John Adams
 1. Thomas Jefferson
