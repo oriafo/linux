@@ -156,7 +156,18 @@ GitHub automatically creates links when valid URLs are written in a comment. For
 
 **Note**
 
-If a task list item description begins with a parenthesis, you'll need to escape it with \:
+If a task list item description begins with a parenthesis, you'll need to escape it with \
 
 
 - [x] (issues) open a follow up issue
+
+~~#################################################################################################################~~
+
+**<p align="center">Mentioning People and Teams</p>**
+
+~~#################################################################################################################~~
+
+**Note**
+
+A person will only be notified about a mention if the person has read access to the repository and, if the repository is owned by an organization, the person is a member of the organization.
+
