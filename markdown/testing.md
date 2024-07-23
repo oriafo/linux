@@ -153,3 +153,10 @@ GitHub automatically creates links when valid URLs are written in a comment. For
 - [x] #739
 - [ ] https://github.com/octo-org/octo-repo/issues/740
 - [ ] Add delight to the experience when all tasks are complete :tada:
+
+**Note**
+
+If a task list item description begins with a parenthesis, you'll need to escape it with \:
+
+
+- [x] (issues) open a follow up issue
