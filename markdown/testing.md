@@ -143,3 +143,13 @@ GitHub automatically creates links when valid URLs are written in a comment. For
             * This is my first sub-sub unordered item
 2. This is my second ordered item
     * This is my second sub-order item
+
+~~#################################################################################################################~~
+
+**<p align="center">Adding Task Lists</p>**
+
+~~#################################################################################################################~~
+
+- [x] #739
+- [ ] https://github.com/octo-org/octo-repo/issues/740
+- [ ] Add delight to the experience when all tasks are complete :tada:
