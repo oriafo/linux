@@ -136,3 +136,8 @@ GitHub automatically creates links when valid URLs are written in a comment. For
 **<p align="center">Adding Nested Lists</p>**
 
 ~~#################################################################################################################~~
+
+1. This is my first ordered item
+    * This is my first sub-order item
+2. This is my second ordered item
+    * This is my second sub-order item
