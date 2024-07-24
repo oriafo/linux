@@ -242,4 +242,4 @@ You can tell GitHub to ignore (or escape) Markdown formatting by using \ before 
 ~~#################################################################################################################~~  
 
 > [!TIP]  
-When viewing a Markdown file, you can click Code at the top of the file to disable Markdown rendering and view the file's source instead.
+When viewing a Markdown file, you can click **Code*** at the top of the file to disable Markdown rendering and view the file's source instead.
