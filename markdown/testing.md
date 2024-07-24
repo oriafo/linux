@@ -189,5 +189,15 @@ You can bring up a list of suggested issues and pull requests within the reposit
 
 If custom autolink references are configured for a repository, then references to external resources, like a JIRA issue or Zendesk ticket, convert into shortened links. To know which autolinks are available in your repository, contact someone with admin permissions to the repository. For more information, see "Configuring autolinks to reference external resources."
 
+~~#################################################################################################################~~
+
+**<p align="center">Uploading Asset</p>**
+
+~~#################################################################################################################~~
+
+You can upload assets like images by dragging and dropping, selecting from a file browser, or pasting. You can upload assets to issues, pull requests, comments, and .md files in your repository.
+
+
+
 
 
