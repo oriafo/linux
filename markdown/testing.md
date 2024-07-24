@@ -222,3 +222,9 @@ The position of a footnote in your Markdown does not influence where the footnot
 > [!CAUTION]
 > Advises about risks or negative outcomes of certain actions.
 
+~~#################################################################################################################~~  
+**<p align="center">Hidding Content with comments</p>**  
+~~#################################################################################################################~~  
+> [!TIP]
+> The information is below, but commented out
+<!-- This content will not appear in the rendered Markdown -->
