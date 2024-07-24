@@ -20,8 +20,7 @@ Github will create a table of content at the side for you when in your file you 
 **<p align="center">Quotted Text</p>**
 
 ~~#################################################################################################################~~  
-**Hello** 
-
+**Hello**   
 __Helllo__  
 *Hello*  
 _Hello_  
@@ -238,3 +237,9 @@ Let's rename \*our-new-project\* to \*our-old-project\*.
 > [!NOTE]  
 You can tell GitHub to ignore (or escape) Markdown formatting by using \ before the Markdown character.
 
+~~#################################################################################################################~~  
+**<p align="center">Disabling Markdown entering</p>**  
+~~#################################################################################################################~~  
+
+> [!TIP]  
+When viewing a Markdown file, you can click Code at the top of the file to disable Markdown rendering and view the file's source instead.
