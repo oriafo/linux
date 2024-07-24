@@ -205,30 +205,22 @@ You can upload assets like images by dragging and dropping, selecting from a fil
 
 @oriafo :+1: This PR looks great - it's ready to merge! :shipit:
 
-**:memo:Note**
-
+**:memo:Note**  
 [you can access the emojis cheet sheet  from this links;](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
 
 ~~#################################################################################################################~~
 
 **<p align="center">Using paragraphs</p>**
 
-~~#################################################################################################################~~
-
+~~#################################################################################################################~~  
 You can create a new paragraph by leaving a blank line between lines of text.
 
-~~#################################################################################################################~~
-
-**<p align="center">Using footnotes</p>**
-
-~~#################################################################################################################~~
-
-Here is a simple footnote[^1].
-
-A footnote can also have multiple lines[^2].
-
-[^1]: My reference.
-
+~~#################################################################################################################~~  
+**<p align="center">Using footnotes</p>**  
+~~#################################################################################################################~~  
+Here is a simple footnote[^1].   
+A footnote can also have multiple lines[^2].  
+[^1]: My reference.  
 [^2]: To add line breaks within a footnote, prefix new lines with 2 spaces.
   This is a second line.
 
