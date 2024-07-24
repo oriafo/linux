@@ -197,7 +197,11 @@ If custom autolink references are configured for a repository, then references t
 
 You can upload assets like images by dragging and dropping, selecting from a file browser, or pasting. You can upload assets to issues, pull requests, comments, and .md files in your repository.
 
+~~#################################################################################################################~~
 
+**<p align="center">Using Emojis</p>**
 
+~~#################################################################################################################~~
 
+@oriafo :+1: This PR looks great - it's ready to merge! :shipit:
 
