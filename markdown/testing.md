@@ -20,7 +20,8 @@ Github will create a table of content at the side for you when in your file you 
 **<p align="center">Quotted Text</p>**
 
 ~~#################################################################################################################~~  
-**Hello**   
+**Hello** 
+
 __Helllo__  
 *Hello*  
 _Hello_  
@@ -139,7 +140,7 @@ GitHub automatically creates links when valid URLs are written in a comment. For
 - [ ] https://github.com/octo-org/octo-repo/issues/740
 - [ ] Add delight to the experience when all tasks are complete :tada:
 
-> [!CAUTION] 
+> [!CAUTION]   
 If a task list item description begins with a parenthesis, you'll need to escape it with \
    
 - [x] (issues) open a follow up issue
@@ -225,6 +226,15 @@ The position of a footnote in your Markdown does not influence where the footnot
 ~~#################################################################################################################~~  
 **<p align="center">Hidding Content with comments</p>**  
 ~~#################################################################################################################~~  
-> [!TIP]
+> [!TIP]  
 > The information is below, but commented out
 <!-- This content will not appear in the rendered Markdown -->
+
+~~#################################################################################################################~~  
+**<p align="center">Ignoring markdown formatting</p>**  
+~~#################################################################################################################~~    
+Let's rename \*our-new-project\* to \*our-old-project\*.
+
+> [!NOTE]  
+You can tell GitHub to ignore (or escape) Markdown formatting by using \ before the Markdown character.
+
