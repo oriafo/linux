@@ -216,7 +216,7 @@ You can upload assets like images by dragging and dropping, selecting from a fil
 You can create a new paragraph by leaving a blank line between lines of text.
 
 ~~#################################################################################################################~~  
-**<p style="margin-top:0px;text-align:center">Using footnotes</p>**  
+**<p align="center">Using footnotes</p>**  
 ~~#################################################################################################################~~  
 Here is a simple footnote[^1].   
 A footnote can also have multiple lines[^2].  
