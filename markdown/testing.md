@@ -10,7 +10,7 @@
 ## This is the second Menu   
 ### This is the third Menu
 
-**:memo:Note**  
+> [!NOTE]
 Github will create a table of content at the side for you when in your file you have more than one heading.
 **<p align="center">Now let's start</p>**  
 
@@ -66,7 +66,7 @@ print('Outside function')
 ~~#################################################################################################################~~  
 `#ffffff` 
 
-**:memo:Note**      
+> [!WARNING]     
 1. A supported color model cannot have any leading or trailing spaces within the backticks.
 1. The visualization of the color is only supported in issues, pull requests, and discussions.
 
@@ -77,7 +77,7 @@ print('Outside function')
 ~~#################################################################################################################~~   
 Aws Bootcamp [Cloud Course](https://www.youtube.com/watch?v=zA8guDqfv40&t=1s)
 
-**:memo:Note**  
+> [!NOTE]
 GitHub automatically creates links when valid URLs are written in a comment. For more information
 
 ~~#################################################################################################################~~
@@ -138,7 +138,7 @@ GitHub automatically creates links when valid URLs are written in a comment. For
 - [ ] https://github.com/octo-org/octo-repo/issues/740
 - [ ] Add delight to the experience when all tasks are complete :tada:
 
-**:memo:Note**  
+> [!CAUTION] 
 If a task list item description begins with a parenthesis, you'll need to escape it with \
    
 - [x] (issues) open a follow up issue
@@ -150,7 +150,7 @@ If a task list item description begins with a parenthesis, you'll need to escape
 ~~#################################################################################################################~~  
 @github.com/oriafo how is the markdown learning going
 
-**:memo:Note**  
+> [!NOTE] 
 A person will only be notified about a mention if the person has read access to the repository and, if the repository is owned by an organization, the person is a member of the organization.
 
 ~~#################################################################################################################~~
@@ -181,7 +181,7 @@ You can upload assets like images by dragging and dropping, selecting from a fil
 ~~#################################################################################################################~~  
 @oriafo :+1: This PR looks great - it's ready to merge! :shipit:
 
-**:memo:Note**  
+> [!TIP]   
 [you can access the emojis cheet sheet  from this links;](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
 
 ~~#################################################################################################################~~
@@ -200,7 +200,7 @@ A footnote can also have multiple lines[^2].
 [^2]: To add line breaks within a footnote, prefix new lines with 2 spaces.
   This is a second line.
 
-> [!NOTE] 
+> [!IMPORTANT]  
 The position of a footnote in your Markdown does not influence where the footnote will be rendered. You can write a footnote right after your reference to the footnote, and the footnote will still render at the bottom of the Markdown. Footnotes are not supported in wikis.
 
 ~~#################################################################################################################~~  
