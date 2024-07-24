@@ -205,3 +205,7 @@ You can upload assets like images by dragging and dropping, selecting from a fil
 
 @oriafo :+1: This PR looks great - it's ready to merge! :shipit:
 
+**Note:**
+
+[you can access the emojis cheet sheet  from this links;](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
+
