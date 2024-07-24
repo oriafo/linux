@@ -209,3 +209,26 @@ You can upload assets like images by dragging and dropping, selecting from a fil
 
 [you can access the emojis cheet sheet  from this links;](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
 
+~~#################################################################################################################~~
+
+**<p align="center">Using paragraphs</p>**
+
+~~#################################################################################################################~~
+
+You can create a new paragraph by leaving a blank line between lines of text.
+
+~~#################################################################################################################~~
+
+**<p align="center">Using footnotes</p>**
+
+~~#################################################################################################################~~
+
+Here is a simple footnote[^1].
+
+A footnote can also have multiple lines[^2].
+
+[^1]: My reference.
+
+ To add line breaks within a footnote, prefix new lines with 2 spaces.
+  This is a second line.
+
